@@ -1,0 +1,14 @@
+<environment>
+    <parameter>
+        <key>Browser</key>
+        <value>Chrome</value>
+    </parameter>
+    <parameter>
+        <key>Browser.Version</key>
+        <value>Version 68.0.3440.106 (Official Build) (64-bit)</value>
+    </parameter>
+    <parameter>
+        <key>Stand</key>
+        <value>http://amt1.estafeta.org</value>
+    </parameter>
+</environment>

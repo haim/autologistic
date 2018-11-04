@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="AMT Tests" verbose="1">
+
+    <test name="Login">
+        <classes>
+            <class name="com.estafeta.test.ui.test.smoke.login.LoginTest"/>
+        </classes>
+    </test>
+
+</suite>

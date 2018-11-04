@@ -1,0 +1,29 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="AMT Tests" verbose="1">
+
+    <!--<test name="LoginTest">-->
+    <!--<classes>-->
+    <!--<class name="com.estafeta.test.ui.test.smoke.loginAs.LoginTest"/>-->
+    <!--</classes>-->
+    <!--</test>-->
+
+    <test name="LotsTest">
+        <classes>
+            <class name="com.estafeta.test.ui.test.smoke.lots.LotsTest"/>
+        </classes>
+    </test>
+
+    <!--<test name="searchTest">-->
+    <!--<classes>-->
+    <!--<class name="com.estafeta.test.ui.test.smoke.searchTest.SearchTest"/>-->
+    <!--</classes>-->
+    <!--</test>-->
+
+    <!--<test name="VehicleTest">-->
+    <!--<classes>-->
+    <!--<class name="com.estafeta.test.ui.test.smoke.vehicle.VehicleTest"/>-->
+    <!--</classes>-->
+    <!--</test>-->
+
+</suite>
